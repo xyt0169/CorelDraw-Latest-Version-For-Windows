@@ -1,7 +1,7 @@
 # 🎨 CorelDraw Repository  
 Welcome to the CorelDraw repository! 🚀 This is your ultimate source for accessing the powerful features of CorelDraw, a leading graphic design software. Whether you are a beginner or a professional designer, CorelDraw offers a comprehensive set of tools to bring your creative ideas to life.
 
-## 📁 Repository Overview   
+## 📁 Repository Overview    
 - Name: CorelDraw  
 - Description: Access CorelDraw for free. Tags: CorelDraw-2024-free, download CorelDraw at no cost, fully functional free version.  
 - Topics: Graphic-Design, CorelDraw, vector-illustration, free-software, design-software, pro-version
